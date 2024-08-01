@@ -31,12 +31,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adrianso/react-native-nearby-api.git"
+    "url": "git+https://github.com/mkay4real/react-native-nearby-api.git"
   },
   "bugs": {
-    "url": "https://github.com/adrianso/react-native-nearby-api/issues"
+    "url": "https://github.com/mkay4real/react-native-nearby-api/issues"
   },
-  "homepage": "https://github.com/adrianso/react-native-nearby-api#readme",
+  "homepage": "https://github.com/mkay4real/react-native-nearby-api#readme",
   "husky": {
     "pre-commit": "tsc"
   }
