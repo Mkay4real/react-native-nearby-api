@@ -13,7 +13,7 @@
 
 ## 3. Install the new package
 
-`> yarn add @adrianso/react-native-nearby-api`
+`> yarn add @mkay4real/react-native-nearby-api`
 
 This new package support RN60 Autolinking. You do not need to link the library manually.
 
